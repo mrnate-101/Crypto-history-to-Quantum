@@ -29,7 +29,7 @@ Awarded for live Python demos + clear explanation of cryptography’s past, pres
 `docs/Chi-Beta-Phi-2025-Presentation.pdf`
 
 **Final Message I Delivered**  
-“Quantum computers are coming. RSA will fall. The future is lattice-based cryptography — and we need to start preparing now.”
+“Quantum computers are coming. RSA will fall. The future is lattice-based cryptography, and we need to start preparing now.”
 
 **Nathaniel Addai Gyarteng**  
 [LinkedIn](https://linkedin.com/in/nathaniel-a-gyarteng) | nathanielgyarteng@gmail.com
